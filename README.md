@@ -12,6 +12,7 @@ Website (course is free to register for): <a href="https://javascript30.com/" ta
 GitHub to download examples: <a href="https://github.com/wesbos/JavaScript30" target="_blank">https://github.com/wesbos/JavaScript30</a>
 
 Three examples:
+
 <b>CSS variables</b>
 
 <a href="https://github.com/wesbos/JavaScript30/tree/master/03%20-%20CSS%20Variables" target="_blank">https://github.com/wesbos/JavaScript30/tree/master/03%20-%20CSS%20Variables</a>
